@@ -1,3 +1,20 @@
+#container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    padding: 5%;
+    background-color: silver;
+}
+
+.box{
+    width: 300px;
+    background-color: #727070;
+    color:darkgrey;
+    padding: 15%;
+    border-radius: 10px;
+    text-align: center;
+}
+
 
 
 
