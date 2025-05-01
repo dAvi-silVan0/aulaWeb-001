@@ -1,4 +1,4 @@
-#container{
+#container{ /*id */
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
@@ -6,7 +6,7 @@
     background-color: silver;
 }
 
-.caixa{
+.caixa{ /*classe*/
     width: 300px;
     background-color: #727070;
     color:darkgrey;
@@ -15,7 +15,7 @@
     text-align: center;
 }
 
-img{
+img{ /*tag*/
     max-width: 55%;
     max-height: 55%;
     width: auto;
